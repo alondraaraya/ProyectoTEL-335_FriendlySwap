@@ -1,0 +1,4 @@
+[{"id":1,"id_vendedor":3,"categoria":"Electrodomestico","nombre":"Telefono","ofertas":[1,2,3]},
+{"id":2,"id_vendedor":3, "categoria":"Audifonos","nombre":"Television", "ofertas": [1,2,3]},
+{"id":3,"id_vendedor":1,"categoria":1,"nombre":"Camioneta","ofertas:" : [2]},
+{"id":4,"id_vendedor":1,"categoria":4, "nombre":"Computador", "ofertas": []}]

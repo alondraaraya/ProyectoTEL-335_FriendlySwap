@@ -1,0 +1,4 @@
+[{"id":1,"id_publicacion_oferta":3,"id_publicacion_ofertada":[3],"estado": 1, "id_ofertador":1},
+{"id":2,"id_publicacion_oferta":3, "id_publicacion_ofertada":[2],"estado": 0, "id_ofertador":1},
+{"id":3,"id_publicacion_oferta":1,"id_publicacion_ofertada":[1],"estado": 0, "id_ofertador":1},
+{"id":4,"id_publicacion_oferta":1,"id_publicacion_ofertada":[4],"estado": 0, "id_ofertador":1}]

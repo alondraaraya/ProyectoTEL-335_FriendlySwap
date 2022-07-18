@@ -1,0 +1,16 @@
+.card{
+    box-shadow: 1px 1px 5px gray;
+    margin:5px;
+}
+.cards{
+    Justify-content: center;
+    display: flex;
+    flex-wrap : wrap;
+    List-style: none;
+    margin: 0;
+    padding:0;
+}
+.cards-item{
+    display : Flex;
+    padding : 1rem;
+}
